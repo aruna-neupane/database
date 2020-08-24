@@ -246,11 +246,6 @@
             "id": 1,
             "pass": "pass123",
             "username": "uname"
-        },
-        {
-            "id": 2,
-            "pass": "pass456",
-            "username": "uname2"
         }
     ]
 }
